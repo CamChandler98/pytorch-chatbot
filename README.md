@@ -1,6 +1,6 @@
 # pytorch-chatbot
 
-My first delve into machine learning is this PyTorch chatbot. This project is adapted from the [official PyTorch tutorial]https://pytorch.org/tutorials/beginner/chatbot_tutorial.html and the bot is trained from the [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+My first delve into machine learning is this PyTorch chatbot. This project is adapted from the [official PyTorch tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html) and the bot is trained from the [Cornell Movie Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 
 ### Development
