@@ -16,5 +16,5 @@ My first delve into machine learning is this PyTorch chatbot. This project is ad
     
 ### Reflections and next steps
 ---
-I used a teacher forcing ratio of 50% with 5000 iterations for this bot. I think that these factors combined led to a model that makes similar inferences in disimilar situations. For a future bot I may try mor training iterations with less teacher forcing. Over all I'm prod of being able to implement this bot using just the PyTorch framework but for my next venture into chatbots I think it'd be more effective to incorporate some sort of Natural Language Processing module.
+I used a teacher forcing ratio of 50% with 5000 iterations for this bot. I think that these factors combined led to a model that makes similar inferences in disimilar situations. For a future bot I may try more training iterations with less teacher forcing. Over all I'm proud of being able to implement this bot using just the PyTorch framework but for my next venture into chatbots I think it'd be more effective to incorporate some sort of Natural Language Processing module.
 ***
